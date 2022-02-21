@@ -6,7 +6,7 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200&quot;" style="max-width: 100%;">
 <h2><a id="user-content-printfn-hello-world-" class="anchor" aria-hidden="true" href="#printfn-hello-world-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>System.out.println("\n Hello World!! <g-emoji class="g-emoji" alias="smiley" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f603.png">😃</g-emoji>");</h2>
 
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything and everything.</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything.</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> LinkedIn profile: <a href="https://www.linkedin.com/in/aryan-rai-993b87208/" rel="nofollow">aryan2112</a></li>
   <li><g-emoji class="g-emoji" alias="bell" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f514.png">🔔</g-emoji> Instagram:- <a href="https://www.instagram.com/aryanrai0710/" rel="nofollow">aryanrai0710</a></li>
     <li><g-emoji class="g-emoji" alias="bell" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f514.png">🔔</g-emoji> twitter:- <a href="https://twitter.com/aryan4050" rel="nofollow">@Aryan Rai</a></li>
@@ -40,12 +40,7 @@ Eager to bring an excellent work ethic and a strong commitment to quality perfor
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </p>
   
    ![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=aryan2112&show_icons=true&theme=tokyonight&count_private=true)
